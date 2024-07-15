@@ -23,7 +23,7 @@ To view or use the product landing page, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/product-landing-page.git
+   git clone https://github.com/aneesamehmood/fcc-product-landing-page.git
 
 ## Acknowledgements
   freeCodeCamp for providing the project guidelines and resources.
